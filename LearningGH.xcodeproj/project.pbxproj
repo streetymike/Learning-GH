@@ -13,6 +13,8 @@
 		CE0A17D6283C60920031C03B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A17C4283C60900031C03B /* ContentView.swift */; };
 		CE0A17D7283C60920031C03B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE0A17C5283C60920031C03B /* Assets.xcassets */; };
 		CE0A17D8283C60920031C03B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE0A17C5283C60920031C03B /* Assets.xcassets */; };
+		CE0A17E2283C86DC0031C03B /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A17E1283C86DC0031C03B /* MyModel.swift */; };
+		CE0A17E3283C86DC0031C03B /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A17E1283C86DC0031C03B /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,7 @@
 		CE0A17CA283C60920031C03B /* LearningGH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningGH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE0A17D0283C60920031C03B /* LearningGH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningGH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE0A17D2283C60920031C03B /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		CE0A17E1283C86DC0031C03B /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				CE0A17C3283C60900031C03B /* LearningGHApp.swift */,
+				CE0A17E1283C86DC0031C03B /* MyModel.swift */,
 				CE0A17C4283C60900031C03B /* ContentView.swift */,
 				CE0A17C5283C60920031C03B /* Assets.xcassets */,
 			);
@@ -177,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE0A17D5283C60920031C03B /* ContentView.swift in Sources */,
+				CE0A17E2283C86DC0031C03B /* MyModel.swift in Sources */,
 				CE0A17D3283C60920031C03B /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -186,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE0A17D6283C60920031C03B /* ContentView.swift in Sources */,
+				CE0A17E3283C86DC0031C03B /* MyModel.swift in Sources */,
 				CE0A17D4283C60920031C03B /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
