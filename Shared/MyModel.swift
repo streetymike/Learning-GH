@@ -11,7 +11,7 @@ import Foundation
 
 struct MYModel {
     
-    var name:String?
+    var name = "My Name"
     
     
     
